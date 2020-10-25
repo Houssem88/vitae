@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "vitae"
+    }
+  },
+  "defaultProject": "vitae",
+  "cli": {
+    "analytics": false
+  }
 }
